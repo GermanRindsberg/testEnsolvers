@@ -5,6 +5,10 @@ Repositorio que contiene un test realizado para la empresa Ensolvers. El mismo c
 
 2 -Ejecutar runApp.sh
 
+3- En cualquier navegador web ingresar a: http://127.0.0.1:4200/
+
+4- El sistema cuenta con gestion de usuarios, donde usted puede registrar su nombre, email y password, pero si lo desea puede utilizar el usuario por defecto que es: ensolvers@ensolvers.com y el password: 123
+
 
 Si tiene problemas con el puerto 4200 de angular ejecutar lo siguiente:
 
